@@ -1,5 +1,5 @@
 # Jump-Empty
-VideoJuego creado en Unity 
+VideoJuego creado con Unity para la asignatura Programación Multimedia 
 
 ##Unity 2018.3.14f1
 
